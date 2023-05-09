@@ -1,4 +1,4 @@
-# ToDo List App
+# To Do List App
 ![Logo do Markdown](lib/images/to_do_list_app.png)
 A new Flutter project.
 
